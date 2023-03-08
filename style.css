@@ -31,9 +31,9 @@ border: 1px solid #000000
 	border: 1px solid green;
 }
 
-#FooterRight {
+#Footer-Right {
 	float:right;
-	width:399px; /*49.5%*/
+	width:399px;x /*49.5%*/
 	height:50px;
 	border: 1px solid red;
 }
