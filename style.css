@@ -26,14 +26,14 @@ border: 1px solid #000000
 
 #Footer-left {
 	float:left;
-	width:399px; /*49.5%*/
+	width:399px;
 	height:50px;
 	border: 1px solid green;
 }
 
 #Footer-right {
 	float:right;
-	width:399px;x /*49.5%*/
+	width:399px;
 	height:50px;
 	border: 1px solid red;
 }
