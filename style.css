@@ -42,12 +42,21 @@ border: 1px solid #000000
 	height:50px;
 	border: 1px solid red;
 }
-#index-h1 {
-	color: red;
-}
 
 @media only screen and (max-width: 998px) {
 	#Footer, #MainContent, #Header {
 		width: 100%;
 	}
+}
+
+.heading {
+	color:red;
+}
+
+.footerl {
+	color:green;
+}
+
+.footerr {
+	color:red;
 }
